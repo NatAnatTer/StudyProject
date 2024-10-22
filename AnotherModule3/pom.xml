@@ -8,9 +8,7 @@
     <artifactId>AnotherModule3</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <modules>
-<module></module>
-    </modules>
+
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
